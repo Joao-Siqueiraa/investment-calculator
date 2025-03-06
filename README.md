@@ -1,0 +1,2 @@
+# investment-calculator
+ uma calculadora financeira que projeta quando você vai alcançar R$ 1 milhão, levando em conta:  Aporte inicial (quanto você já tem guardado) Aporte mensal (quanto você investe todo mês) Taxa de juros anual (rentabilidade do investimento) Inflação anual (para ajustar o valor real do dinheiro) Data atual (para calcular o tempo até atingir a meta) Isso daria uma visão realista de quanto tempo levaria para chegar a R$ 1 milhão, considerando o crescimento dos investimentos e a perda do poder de compra pela inflação.
